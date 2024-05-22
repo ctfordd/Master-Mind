@@ -20,6 +20,8 @@ public class MMUpdate {
             System.out.println("Enter new number 1-6:");
             answerCount = scan.nextInt();
         }
+
+
         
         GenerateNew(answerCount);
         // ShowAnswers(answerCount);
